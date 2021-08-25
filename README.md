@@ -1,0 +1,1 @@
+The authenctication application with SSR
